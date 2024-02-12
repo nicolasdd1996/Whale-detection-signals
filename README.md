@@ -1,4 +1,4 @@
-# Whale-detection-signals
+# whale-detection
 This GitHub repository contains Python code designed to interface with high-frequency cryptocurrency market data, including orderbook snapshots, market orders, and Open Interest. The primary objectives of this project are as follows:
 
 1. **Data Downloading**: Automate the retrieval of high-frequency cryptocurrency market data from Tardis database.
