@@ -2,8 +2,11 @@
 This GitHub repository contains Python code designed to interface with high-frequency cryptocurrency market data, including orderbook snapshots, market orders, and Open Interest. The primary objectives of this project are as follows:
 
 <br>1. **Data Downloading**: Automate the retrieval of high-frequency cryptocurrency market data from Tardis database.
+
 <br>2. **Data Processing**: Process the acquired dataset to generate relevant 1-minute statistics, significantly reducing the size of the datasets, and enabling a granular analysis of market conditions.
+
 <br>3. **Signal Generation**: Utilize processed data to generate relevant signals indicative of "whales" activity on the markets. The term "whale" refers to traders or entities that hold a significant amount of cryptocurrency and can influence market directions.
+
 <br>4. **Whale Activity Detection**: These signals are crucial for identifying whale activities in the markets. This detection aims to accumulation patterns in spot markets that may precede strong upward price movements.
 
 This repository is invaluable for traders, analysts, and enthusiasts looking to gain insights into market dynamics and develop strategies based on the activities of major market participants.
