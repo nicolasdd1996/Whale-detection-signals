@@ -9,6 +9,6 @@ This GitHub repository contains Python code designed to interface with high-freq
 
 4. **Whale Activity Detection**: These signals are crucial for identifying whale activities in the markets. This detection aims to accumulation patterns in spot markets that may precede strong upward price movements.
 
-<br>This repository is invaluable for traders, analysts, and enthusiasts looking to gain insights into market dynamics and develop strategies based on the activities of major market participants.
+<br>This repository is usefull for traders, analysts, and enthusiasts looking to gain insights into market dynamics and develop strategies based on the activities of major market participants.
 
 Please note: Executing the code in this repository requires a license from Tardis, as access to their comprehensive database of historical and real-time market data is essential for the functionality of the tools provided here. Ensure you have the necessary Tardis license to fully leverage the capabilities of this project.
